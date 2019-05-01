@@ -1,0 +1,48 @@
+body{
+
+}
+h1{
+    text-align: center;
+}
+.add-task{
+    text-align: center;
+    margin-top: 20px;
+    width: 100%;
+}
+
+ul{
+    margin-top: 20px;
+   list-style: none;
+}
+ul li{
+    text-decoration: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+input[type="checkbox"]{
+
+}
+.task__complete-button {
+   
+    margin: 0 1rem 0 0;
+    cursor: pointer;
+  }
+.complete span{
+    color: grey;
+    text-decoration: line-through;
+}
+a{
+    text-align: right;
+}
+.task__remove-button{
+ background: #f5253d;
+ padding: 3px 10px;
+ color: white!important;
+ float: right;
+}
+.task{
+
+}
+.task:hover{
+background:#a7a7a75e;
+}
